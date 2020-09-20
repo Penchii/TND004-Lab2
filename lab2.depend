@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1496518808 source:c:\users\virusbreedingground\documents\code2\logarithm.cpp
+	"logarithm.h"
+	"polynomial.h"
+
+1496518729 c:\users\virusbreedingground\documents\code2\logarithm.h
+	<iostream>
+	"expression.h"
+
+1496516408 c:\users\virusbreedingground\documents\code2\expression.h
+	<iostream>
+	<cmath>
+
+1496516666 c:\users\virusbreedingground\documents\code2\polynomial.h
+	<iostream>
+	<iomanip>
+	"expression.h"
+
+1496516247 source:c:\users\virusbreedingground\documents\code2\expression.cpp
+	"expression.h"
+
+1496518979 source:c:\users\virusbreedingground\documents\code2\polynomial.cpp
+	"polynomial.h"
+	<cmath>
+
+1496516443 source:c:\users\virusbreedingground\documents\code2\test.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"polynomial.h"
+	"logarithm.h"
+
+1496512648 source:d:\lab2\code2\expression.cpp
+	"expression.h"
+
+1496512810 d:\lab2\code2\expression.h
+	<iostream>
+	<cmath>
+
+1496515210 source:d:\lab2\code2\logarithm.cpp
+	"logarithm.h"
+	"polynomial.h"
+
+1496515130 d:\lab2\code2\logarithm.h
+	<iostream>
+	"expression.h"
+
+1496513068 d:\lab2\code2\polynomial.h
+	<iostream>
+	<iomanip>
+	"expression.h"
+
+1496515554 source:d:\lab2\code2\polynomial.cpp
+	"polynomial.h"
+	<cmath>
+
+1496512844 source:d:\lab2\code2\test.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"polynomial.h"
+	"logarithm.h"
+
